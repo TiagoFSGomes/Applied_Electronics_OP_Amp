@@ -1,5 +1,8 @@
 # 📜 Applied Eletronics
   * Basic OP-Amp Configurations
+    - Amplifier Inverting Configuration
+    - Amplifier no Inverting Configuration
+    - Amplifier Voltage Follower (Buffer)
 
 ![image](https://user-images.githubusercontent.com/67346814/171630587-57af548f-cf95-4c7f-a6af-65c49cd09f85.png)
 
