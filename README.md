@@ -1,4 +1,4 @@
-## 📜 Applied Eletronics ![GitHub repo size](https://img.shields.io/github/repo-size/TiagoFSGomes/Applied_Electronics_OP_Amp)
+## 📜 Applied Eletronics ![GitHub repo size](https://img.shields.io/github/repo-size/TiagoFSGomes/Applied_Electronics_OP_Amp) 
   * Basic OP-Amp Configurations
     - Amplifier Inverting Configuration
     - Amplifier no Inverting Configuration
